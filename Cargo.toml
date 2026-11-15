@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-themes-lxde component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-themes-lxde"
+name = "sigmaos_archlinux_themes_lxde"
 path = "src/lib.rs"
