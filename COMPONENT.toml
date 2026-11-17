@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-themes-lxde"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-themes-lxde component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
